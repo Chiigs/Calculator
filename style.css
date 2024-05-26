@@ -1,0 +1,162 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+}
+html,body{
+height:100%;
+width:100%;
+}
+
+.main{
+    width: 26%;
+    height: 100%;
+    border-radius: 35px;
+    background-color: black;
+    margin-left: 37%;
+    margin-top: 10px;
+    
+}
+
+.top{
+    width: 100%;
+    height: 35%;
+    /* background-color: aqua; */
+}
+
+.bottom{
+    width: 100%;
+    height: 65%;
+    /* background-color: brown; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+   
+   
+  
+    
+}
+
+.bottom button{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    /* gap: 20px; */
+    margin-left: 5px;
+    color: white;
+    font-size: 30px;
+    margin-left: 13px;
+
+    
+
+}
+
+.item4{
+    background-color: #7C1794;
+    border: none;
+}
+
+.item8{
+    background-color: #7C1794;
+    border: none;
+}
+
+.item12{
+    background-color: #7C1794;
+    border: none;
+}
+
+.item16{
+    background-color: #7C1794;
+    border: none;
+}
+
+.item20{
+    background-color: #7C1794;
+    border: none;
+}
+
+.item1{
+    background-color: #5A4E5F;
+    border: none;
+}
+
+.item2{
+    background-color: #5A4E5F;
+    border: none;
+}
+
+.item3{
+    background-color: #5A4E5F;
+    border: none;
+}
+
+.item5{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item6{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item7{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item9{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item10{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item11{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item13{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item14{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item15{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item17{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item18{
+    background-color:#332736 ;
+    border: none;
+}
+
+.item19{
+    background-color:#332736 ;
+    border: none;
+}
+
+
+
+.top h1{
+    font-size: 60px;
+    padding: 125px;
+    padding-bottom: 30px;
+    color: white;
+    font-weight: 100;
+}
